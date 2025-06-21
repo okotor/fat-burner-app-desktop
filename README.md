@@ -1,6 +1,4 @@
-# Project Name
-
-Fat Burner
+# Fat Burner App
 
 This is an app to track your weight, fat level and calorie intake/burn.
 
@@ -13,7 +11,12 @@ This is an app to track your weight, fat level and calorie intake/burn.
 - Saving all Your Data in a CSV File and Displaying Improvement Statistics
 
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.x
 - guizero
+
+## Installation
+
+- Just unpack "The App in .exe format - unpack and run" .rar file in the root folder (do not move it from there) and run.
+- Alternatively, open the project in VS code and run the ./app/"main.py" file
