@@ -1,4 +1,4 @@
-# Fat Burner App - Full Version
+# Fat Burner App - CSV, Full Version
 
 This is an app to track your weight, fat level and calorie intake/burn.
 
